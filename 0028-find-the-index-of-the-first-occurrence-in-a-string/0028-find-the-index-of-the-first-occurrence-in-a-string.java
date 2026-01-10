@@ -1,14 +1,13 @@
 class Solution {
     public int strStr(String haystack, String needle) {
-        if (needle.isEmpty()) return 0;  // edge case
+        if (needle.isEmpty()) return 0;
 
         int n = haystack.length();
         int m = needle.length();
 
-        for (int start = 0; start <= n - m; start++) {
-            String match = haystack.substring(start, start + m);
-            if (match.equals(needle)) {
-                return start;
+        for (int i = 0; i <= n - m; i++) {
+            if (haystack.startsWith(needle, i)) {
+                return i;
             }
         }
         return -1;
