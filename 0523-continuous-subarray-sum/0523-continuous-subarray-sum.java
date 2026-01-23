@@ -3,6 +3,8 @@ import java.util.Map;
 
 class Solution {
     public boolean checkSubarraySum(int[] nums, int k) {
+        if (nums.length < 2) return false;
+        
         Map<Integer, Integer> map = new HashMap<>(Math.min(nums.length, k));
         map.put(0, -1);
         
@@ -12,15 +14,14 @@ class Solution {
             runningSum += nums[i];
             int remainder = runningSum % k;
             
-            if (map.containsKey(remainder)) {
-                if (i - map.get(remainder) >= 2) {
+            Integer prevIndex = map.putIfAbsent(remainder, i);
+            
+            if (prevIndex != null) {
+                if (i - prevIndex >= 2) {
                     return true;
                 }
-            } else {
-                map.put(remainder, i);
             }
         }
-        
         return false;
     }
 }
