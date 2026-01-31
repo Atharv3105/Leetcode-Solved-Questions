@@ -1,28 +1,26 @@
 class Solution {
     public void rotate(int[][] matrix) {
         int n = matrix.length;
-
-        // Step 1: Transpose the matrix
-        // We iterate over the upper triangle only to avoid double-swapping
-        for (int i = 0; i < n; i++) {
-            for (int j = i; j < n; j++) {
+        
+        // Loop through layers (n / 2)
+        // Loop through elements in the current layer
+        for (int i = 0; i < (n + 1) / 2; i++) {
+            for (int j = 0; j < n / 2; j++) {
+                
+                // Save top-left
                 int temp = matrix[i][j];
-                matrix[i][j] = matrix[j][i];
-                matrix[j][i] = temp;
-            }
-        }
-
-        // Step 2: Reverse each row
-        for (int i = 0; i < n; i++) {
-            // Two-pointer approach to reverse the row
-            int left = 0;
-            int right = n - 1;
-            while (left < right) {
-                int temp = matrix[i][left];
-                matrix[i][left] = matrix[i][right];
-                matrix[i][right] = temp;
-                left++;
-                right--;
+                
+                // Move bottom-left to top-left
+                matrix[i][j] = matrix[n - 1 - j][i];
+                
+                // Move bottom-right to bottom-left
+                matrix[n - 1 - j][i] = matrix[n - 1 - i][n - 1 - j];
+                
+                // Move top-right to bottom-right
+                matrix[n - 1 - i][n - 1 - j] = matrix[j][n - 1 - i];
+                
+                // Move top-left (saved in temp) to top-right
+                matrix[j][n - 1 - i] = temp;
             }
         }
     }
