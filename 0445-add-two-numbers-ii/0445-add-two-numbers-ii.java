@@ -1,5 +1,3 @@
-import java.util.Stack;
-
 /**
  * Definition for singly-linked list.
  * public class ListNode {
@@ -12,43 +10,43 @@ import java.util.Stack;
  */
 class Solution {
     public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
-        Stack<Integer> stack1 = new Stack<>();
-        Stack<Integer> stack2 = new Stack<>();
+        // Pre-allocate arrays based on the maximum constraint size (100)
+        int[] arr1 = new int[100];
+        int[] arr2 = new int[100];
         
-        // Push all values of l1 onto stack1
+        int top1 = 0;
+        int top2 = 0;
+        
+        // "Push" values onto our simulated stacks
         while (l1 != null) {
-            stack1.push(l1.val);
+            arr1[top1++] = l1.val;
             l1 = l1.next;
         }
         
-        // Push all values of l2 onto stack2
         while (l2 != null) {
-            stack2.push(l2.val);
+            arr2[top2++] = l2.val;
             l2 = l2.next;
         }
         
+        ListNode head = null;
         int carry = 0;
-        ListNode head = null; // This will track the front of our result list
         
-        // Process stacks until both are empty and carry is resolved
-        while (!stack1.isEmpty() || !stack2.isEmpty() || carry != 0) {
+        // "Pop" values and calculate the sum
+        while (top1 > 0 || top2 > 0 || carry > 0) {
             int sum = carry;
             
-            if (!stack1.isEmpty()) {
-                sum += stack1.pop();
+            if (top1 > 0) {
+                sum += arr1[--top1];
             }
-            if (!stack2.isEmpty()) {
-                sum += stack2.pop();
+            if (top2 > 0) {
+                sum += arr2[--top2];
             }
             
-            // Create a new node for the current digit
+            // Create node and attach it to the front of the result list
             ListNode newNode = new ListNode(sum % 10);
-            
-            // Insert at the head to build the list in reverse
             newNode.next = head;
             head = newNode;
             
-            // Update the carry for the next iteration
             carry = sum / 10;
         }
         
