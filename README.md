@@ -7,10 +7,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0394-decode-string](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0394-decode-string/) | Medium |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0394-decode-string](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0394-decode-string/) | Medium |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
