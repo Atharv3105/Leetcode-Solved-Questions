@@ -72,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0239-sliding-window-maximum](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0641-design-circular-deque](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0641-design-circular-deque/) | Medium |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
@@ -130,6 +131,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0102-binary-tree-level-order-traversal](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0112-path-sum/) | Easy |
 | [0113-path-sum-ii](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0113-path-sum-ii/) | Medium |
@@ -168,6 +170,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0102-binary-tree-level-order-traversal](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0112-path-sum/) | Easy |
 | [0113-path-sum-ii](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0113-path-sum-ii/) | Medium |
@@ -192,6 +195,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0098-validate-binary-search-tree/) | Medium |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 <!---LeetCode Topics End-->
