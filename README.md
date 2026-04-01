@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0032-longest-valid-parentheses](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0071-simplify-path](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0071-simplify-path/) | Medium |
 | [0241-different-ways-to-add-parentheses](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0301-remove-invalid-parentheses](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0394-decode-string](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0394-decode-string/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
@@ -54,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0112-path-sum](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0112-path-sum/) | Easy |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0301-remove-invalid-parentheses](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
@@ -124,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0641-design-circular-deque](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0641-design-circular-deque/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
@@ -145,6 +148,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0199-binary-tree-right-side-view](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0450-delete-node-in-a-bst](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
@@ -164,6 +168,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0199-binary-tree-right-side-view](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0543-diameter-of-binary-tree](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
@@ -187,6 +192,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0199-binary-tree-right-side-view](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0450-delete-node-in-a-bst](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
