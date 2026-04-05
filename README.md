@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0071-simplify-path](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0071-simplify-path/) | Medium |
+| [0127-word-ladder](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0127-word-ladder/) | Hard |
 | [0241-different-ways-to-add-parentheses](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0301-remove-invalid-parentheses](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0301-remove-invalid-parentheses/) | Hard |
@@ -56,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0111-minimum-depth-of-binary-tree](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0112-path-sum/) | Easy |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
+| [0127-word-ladder](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0127-word-ladder/) | Hard |
 | [0133-clone-graph](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0133-clone-graph/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0207-course-schedule](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0207-course-schedule/) | Medium |
@@ -220,6 +222,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
+| [0127-word-ladder](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0127-word-ladder/) | Hard |
 | [0133-clone-graph](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0133-clone-graph/) | Medium |
 | [0138-copy-list-with-random-pointer](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
