@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [0990-satisfiability-of-equality-equations](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0990-satisfiability-of-equality-equations/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
+| [1202-smallest-string-with-swaps](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/1202-smallest-string-with-swaps/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -77,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [0994-rotting-oranges](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0994-rotting-oranges/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
+| [1202-smallest-string-with-swaps](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/1202-smallest-string-with-swaps/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -105,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0990-satisfiability-of-equality-equations](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0990-satisfiability-of-equality-equations/) | Medium |
 | [0994-rotting-oranges](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0994-rotting-oranges/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
+| [1202-smallest-string-with-swaps](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/1202-smallest-string-with-swaps/) | Medium |
 | [1425-constrained-subsequence-sum](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/1425-constrained-subsequence-sum/) | Hard |
 | [1696-jump-game-vi](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/1696-jump-game-vi/) | Medium |
 ## Queue
@@ -208,6 +211,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0721-accounts-merge](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0721-accounts-merge/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
+| [1202-smallest-string-with-swaps](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/1202-smallest-string-with-swaps/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -245,11 +249,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0721-accounts-merge](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0721-accounts-merge/) | Medium |
 | [0752-open-the-lock](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0752-open-the-lock/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
+| [1202-smallest-string-with-swaps](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/1202-smallest-string-with-swaps/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0721-accounts-merge](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0721-accounts-merge/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
+| [1202-smallest-string-with-swaps](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/1202-smallest-string-with-swaps/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -291,4 +297,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0684-redundant-connection](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0684-redundant-connection/) | Medium |
 | [0721-accounts-merge](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0721-accounts-merge/) | Medium |
 | [0990-satisfiability-of-equality-equations](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0990-satisfiability-of-equality-equations/) | Medium |
+| [1202-smallest-string-with-swaps](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/1202-smallest-string-with-swaps/) | Medium |
 <!---LeetCode Topics End-->
