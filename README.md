@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0301-remove-invalid-parentheses](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0394-decode-string](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0394-decode-string/) | Medium |
+| [0721-accounts-merge](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0721-accounts-merge/) | Medium |
 | [0752-open-the-lock](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0752-open-the-lock/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
@@ -68,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0417-pacific-atlantic-water-flow](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0684-redundant-connection](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0684-redundant-connection/) | Medium |
+| [0721-accounts-merge](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0721-accounts-merge/) | Medium |
 | [0752-open-the-lock](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0752-open-the-lock/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0909-snakes-and-ladders](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0909-snakes-and-ladders/) | Medium |
@@ -95,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0239-sliding-window-maximum](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0417-pacific-atlantic-water-flow](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0641-design-circular-deque](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0641-design-circular-deque/) | Medium |
+| [0721-accounts-merge](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0721-accounts-merge/) | Medium |
 | [0752-open-the-lock](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0752-open-the-lock/) | Medium |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
 | [0909-snakes-and-ladders](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0909-snakes-and-ladders/) | Medium |
@@ -200,6 +203,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0543-diameter-of-binary-tree](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0684-redundant-connection](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0684-redundant-connection/) | Medium |
+| [0721-accounts-merge](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0721-accounts-merge/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 ## Binary Tree
@@ -236,11 +240,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0127-word-ladder](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0127-word-ladder/) | Hard |
 | [0133-clone-graph](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0133-clone-graph/) | Medium |
 | [0138-copy-list-with-random-pointer](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0138-copy-list-with-random-pointer/) | Medium |
+| [0721-accounts-merge](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0721-accounts-merge/) | Medium |
 | [0752-open-the-lock](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0752-open-the-lock/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0721-accounts-merge](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0721-accounts-merge/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 ## Binary Search Tree
 | Problem Name | Difficulty |
@@ -280,4 +286,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0684-redundant-connection](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0684-redundant-connection/) | Medium |
+| [0721-accounts-merge](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0721-accounts-merge/) | Medium |
 <!---LeetCode Topics End-->
