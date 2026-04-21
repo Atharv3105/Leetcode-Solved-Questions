@@ -68,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0210-course-schedule-ii](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0210-course-schedule-ii/) | Medium |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0301-remove-invalid-parentheses](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0301-remove-invalid-parentheses/) | Hard |
+| [0310-minimum-height-trees](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0310-minimum-height-trees/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0684-redundant-connection](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0684-redundant-connection/) | Medium |
@@ -204,6 +205,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
+| [0310-minimum-height-trees](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0310-minimum-height-trees/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
@@ -276,6 +278,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0133-clone-graph](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0133-clone-graph/) | Medium |
 | [0207-course-schedule](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0210-course-schedule-ii/) | Medium |
+| [0310-minimum-height-trees](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0310-minimum-height-trees/) | Medium |
 | [0684-redundant-connection](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0684-redundant-connection/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0990-satisfiability-of-equality-equations](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0990-satisfiability-of-equality-equations/) | Medium |
@@ -291,6 +294,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0210-course-schedule-ii/) | Medium |
+| [0310-minimum-height-trees](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0310-minimum-height-trees/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
