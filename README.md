@@ -52,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0022-generate-parentheses/) | Medium |
 | [0046-permutations](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0046-permutations/) | Medium |
+| [0047-permutations-ii](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0047-permutations-ii/) | Medium |
 | [0078-subsets](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0090-subsets-ii/) | Medium |
 | [0113-path-sum-ii](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0113-path-sum-ii/) | Medium |
@@ -102,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0046-permutations](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0046-permutations/) | Medium |
+| [0047-permutations-ii](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0047-permutations-ii/) | Medium |
 | [0078-subsets](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0090-subsets-ii/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
@@ -269,6 +271,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0047-permutations-ii](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0047-permutations-ii/) | Medium |
 | [0721-accounts-merge](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0721-accounts-merge/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1202-smallest-string-with-swaps](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/1202-smallest-string-with-swaps/) | Medium |
