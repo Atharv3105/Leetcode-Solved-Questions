@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0022-generate-parentheses/) | Medium |
+| [0078-subsets](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0078-subsets/) | Medium |
 | [0113-path-sum-ii](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0113-path-sum-ii/) | Medium |
 | [0301-remove-invalid-parentheses](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0797-all-paths-from-source-to-target](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0797-all-paths-from-source-to-target/) | Medium |
@@ -98,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0078-subsets](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0078-subsets/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
@@ -317,4 +319,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0078-subsets](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0078-subsets/) | Medium |
 <!---LeetCode Topics End-->
