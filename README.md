@@ -105,6 +105,7 @@ Collection of LeetCode questions - Created using [LeetHub-3.0](https://github.co
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0031-next-permutation](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0031-next-permutation/) | Medium |
 | [0039-combination-sum](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0046-permutations/) | Medium |
@@ -336,4 +337,8 @@ Collection of LeetCode questions - Created using [LeetHub-3.0](https://github.co
 | ------- | ------- |
 | [0078-subsets](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0090-subsets-ii/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0031-next-permutation](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0031-next-permutation/) | Medium |
 <!---LeetCode Topics End-->
