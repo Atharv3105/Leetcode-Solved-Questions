@@ -11,6 +11,7 @@ Collection of LeetCode questions - Created using [LeetHub-3.0](https://github.co
 | [0032-longest-valid-parentheses](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0071-simplify-path](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0071-simplify-path/) | Medium |
 | [0127-word-ladder](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0127-word-ladder/) | Hard |
+| [0131-palindrome-partitioning](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0241-different-ways-to-add-parentheses](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
@@ -46,6 +47,7 @@ Collection of LeetCode questions - Created using [LeetHub-3.0](https://github.co
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0131-palindrome-partitioning](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0241-different-ways-to-add-parentheses](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 | [0526-beautiful-arrangement](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0526-beautiful-arrangement/) | Medium |
 | [1425-constrained-subsequence-sum](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/1425-constrained-subsequence-sum/) | Hard |
@@ -63,6 +65,7 @@ Collection of LeetCode questions - Created using [LeetHub-3.0](https://github.co
 | [0078-subsets](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0090-subsets-ii/) | Medium |
 | [0113-path-sum-ii](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0113-path-sum-ii/) | Medium |
+| [0131-palindrome-partitioning](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0216-combination-sum-iii](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0216-combination-sum-iii/) | Medium |
 | [0301-remove-invalid-parentheses](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0526-beautiful-arrangement](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0526-beautiful-arrangement/) | Medium |
