@@ -105,6 +105,7 @@ Collection of LeetCode questions - Created using [LeetHub-3.0](https://github.co
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0009-palindrome-number](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0009-palindrome-number/) | Easy |
 | [0241-different-ways-to-add-parentheses](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
