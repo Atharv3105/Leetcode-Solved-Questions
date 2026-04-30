@@ -42,6 +42,7 @@ Collection of LeetCode questions - Created using [LeetHub-3.0](https://github.co
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0203-remove-linked-list-elements](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0241-different-ways-to-add-parentheses](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 | [0394-decode-string](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0394-decode-string/) | Medium |
 ## Dynamic Programming
@@ -193,6 +194,7 @@ Collection of LeetCode questions - Created using [LeetHub-3.0](https://github.co
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0138-copy-list-with-random-pointer](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0138-copy-list-with-random-pointer/) | Medium |
+| [0203-remove-linked-list-elements](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0641-design-circular-deque](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0641-design-circular-deque/) | Medium |
 ## Design
 | Problem Name | Difficulty |
