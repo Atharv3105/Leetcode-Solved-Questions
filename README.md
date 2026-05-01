@@ -24,6 +24,7 @@ Collection of LeetCode questions - Created using [LeetHub-3.0](https://github.co
 | [0721-accounts-merge](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0721-accounts-merge/) | Medium |
 | [0752-open-the-lock](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0752-open-the-lock/) | Medium |
 | [0784-letter-case-permutation](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0784-letter-case-permutation/) | Medium |
+| [0842-split-array-into-fibonacci-sequence](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0842-split-array-into-fibonacci-sequence/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [0990-satisfiability-of-equality-equations](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0990-satisfiability-of-equality-equations/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
@@ -80,6 +81,7 @@ Collection of LeetCode questions - Created using [LeetHub-3.0](https://github.co
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0698-partition-to-k-equal-sum-subsets/) | Medium |
 | [0784-letter-case-permutation](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0784-letter-case-permutation/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0797-all-paths-from-source-to-target/) | Medium |
+| [0842-split-array-into-fibonacci-sequence](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0842-split-array-into-fibonacci-sequence/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
