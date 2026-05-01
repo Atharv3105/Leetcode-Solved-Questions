@@ -10,6 +10,7 @@ Collection of LeetCode questions - Created using [LeetHub-3.0](https://github.co
 | [0022-generate-parentheses](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0071-simplify-path](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0071-simplify-path/) | Medium |
+| [0091-decode-ways](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0091-decode-ways/) | Medium |
 | [0093-restore-ip-addresses](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0093-restore-ip-addresses/) | Medium |
 | [0127-word-ladder](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0127-word-ladder/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0131-palindrome-partitioning/) | Medium |
@@ -50,6 +51,7 @@ Collection of LeetCode questions - Created using [LeetHub-3.0](https://github.co
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0091-decode-ways](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0091-decode-ways/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0139-word-break](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0139-word-break/) | Medium |
 | [0241-different-ways-to-add-parentheses](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
