@@ -70,6 +70,7 @@ Collection of LeetCode questions - Created using [LeetHub-3.0](https://github.co
 | [0046-permutations](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0047-permutations-ii/) | Medium |
 | [0051-n-queens](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0051-n-queens/) | Hard |
+| [0052-n-queens-ii](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0052-n-queens-ii/) | Hard |
 | [0077-combinations](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0077-combinations/) | Medium |
 | [0078-subsets](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0090-subsets-ii/) | Medium |
