@@ -224,6 +224,7 @@ Collection of LeetCode questions - Created using [LeetHub-3.0](https://github.co
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0110-balanced-binary-tree](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0112-path-sum/) | Easy |
 | [0113-path-sum-ii](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0113-path-sum-ii/) | Medium |
@@ -245,6 +246,7 @@ Collection of LeetCode questions - Created using [LeetHub-3.0](https://github.co
 | [0094-binary-tree-inorder-traversal](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0098-validate-binary-search-tree](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0110-balanced-binary-tree](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0112-path-sum/) | Easy |
 | [0113-path-sum-ii](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0113-path-sum-ii/) | Medium |
@@ -281,6 +283,7 @@ Collection of LeetCode questions - Created using [LeetHub-3.0](https://github.co
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0110-balanced-binary-tree](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0112-path-sum/) | Easy |
 | [0113-path-sum-ii](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0113-path-sum-ii/) | Medium |
