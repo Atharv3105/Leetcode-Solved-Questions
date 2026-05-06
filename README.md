@@ -45,6 +45,7 @@ Collection of LeetCode questions - Created using [LeetHub-3.0](https://github.co
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0050-powx-n](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0050-powx-n/) | Medium |
 | [0203-remove-linked-list-elements](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0241-different-ways-to-add-parentheses](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 | [0394-decode-string](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0394-decode-string/) | Medium |
@@ -121,6 +122,7 @@ Collection of LeetCode questions - Created using [LeetHub-3.0](https://github.co
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0009-palindrome-number/) | Easy |
+| [0050-powx-n](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0050-powx-n/) | Medium |
 | [0241-different-ways-to-add-parentheses](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 | [0292-nim-game](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0292-nim-game/) | Easy |
 ## Memoization
