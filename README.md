@@ -56,6 +56,7 @@ Collection of LeetCode questions - Created using [LeetHub-3.0](https://github.co
 | [0022-generate-parentheses](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0062-unique-paths](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0062-unique-paths/) | Medium |
+| [0063-unique-paths-ii](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0063-unique-paths-ii/) | Medium |
 | [0070-climbing-stairs](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0070-climbing-stairs/) | Easy |
 | [0091-decode-ways](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0091-decode-ways/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0131-palindrome-partitioning/) | Medium |
@@ -153,6 +154,7 @@ Collection of LeetCode questions - Created using [LeetHub-3.0](https://github.co
 | [0046-permutations](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0047-permutations-ii/) | Medium |
 | [0051-n-queens](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0051-n-queens/) | Hard |
+| [0063-unique-paths-ii](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0063-unique-paths-ii/) | Medium |
 | [0078-subsets](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0090-subsets-ii/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
@@ -380,6 +382,7 @@ Collection of LeetCode questions - Created using [LeetHub-3.0](https://github.co
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0063-unique-paths-ii](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0063-unique-paths-ii/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0909-snakes-and-ladders](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0909-snakes-and-ladders/) | Medium |
 | [0994-rotting-oranges](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0994-rotting-oranges/) | Medium |
