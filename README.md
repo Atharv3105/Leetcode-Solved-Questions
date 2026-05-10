@@ -67,6 +67,7 @@ Collection of LeetCode questions - Created using [LeetHub-3.0](https://github.co
 | [0509-fibonacci-number](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0509-fibonacci-number/) | Easy |
 | [0526-beautiful-arrangement](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0526-beautiful-arrangement/) | Medium |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0698-partition-to-k-equal-sum-subsets/) | Medium |
+| [1049-last-stone-weight-ii](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/1049-last-stone-weight-ii/) | Medium |
 | [1425-constrained-subsequence-sum](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/1425-constrained-subsequence-sum/) | Hard |
 | [1696-jump-game-vi](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/1696-jump-game-vi/) | Medium |
 ## Backtracking
@@ -181,6 +182,7 @@ Collection of LeetCode questions - Created using [LeetHub-3.0](https://github.co
 | [0990-satisfiability-of-equality-equations](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0990-satisfiability-of-equality-equations/) | Medium |
 | [0994-rotting-oranges](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0994-rotting-oranges/) | Medium |
 | [1046-last-stone-weight](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/1046-last-stone-weight/) | Easy |
+| [1049-last-stone-weight-ii](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/1049-last-stone-weight-ii/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1202-smallest-string-with-swaps](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/1202-smallest-string-with-swaps/) | Medium |
 | [1425-constrained-subsequence-sum](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/1425-constrained-subsequence-sum/) | Hard |
