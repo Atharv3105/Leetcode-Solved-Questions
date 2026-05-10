@@ -180,6 +180,7 @@ Collection of LeetCode questions - Created using [LeetHub-3.0](https://github.co
 | [0909-snakes-and-ladders](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0909-snakes-and-ladders/) | Medium |
 | [0990-satisfiability-of-equality-equations](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0990-satisfiability-of-equality-equations/) | Medium |
 | [0994-rotting-oranges](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0994-rotting-oranges/) | Medium |
+| [1046-last-stone-weight](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/1046-last-stone-weight/) | Easy |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1202-smallest-string-with-swaps](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/1202-smallest-string-with-swaps/) | Medium |
 | [1425-constrained-subsequence-sum](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/1425-constrained-subsequence-sum/) | Hard |
@@ -204,6 +205,7 @@ Collection of LeetCode questions - Created using [LeetHub-3.0](https://github.co
 | [0239-sliding-window-maximum](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
+| [1046-last-stone-weight](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/1046-last-stone-weight/) | Easy |
 | [1425-constrained-subsequence-sum](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/1425-constrained-subsequence-sum/) | Hard |
 | [1696-jump-game-vi](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/1696-jump-game-vi/) | Medium |
 ## Monotonic Queue
