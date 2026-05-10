@@ -22,6 +22,7 @@ Collection of LeetCode questions - Created using [LeetHub-3.0](https://github.co
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0301-remove-invalid-parentheses](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0394-decode-string](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0394-decode-string/) | Medium |
+| [0474-ones-and-zeroes](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0721-accounts-merge](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0721-accounts-merge/) | Medium |
 | [0752-open-the-lock](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0752-open-the-lock/) | Medium |
 | [0784-letter-case-permutation](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0784-letter-case-permutation/) | Medium |
@@ -64,6 +65,7 @@ Collection of LeetCode questions - Created using [LeetHub-3.0](https://github.co
 | [0198-house-robber](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0198-house-robber/) | Medium |
 | [0241-different-ways-to-add-parentheses](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 | [0322-coin-change](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0322-coin-change/) | Medium |
+| [0474-ones-and-zeroes](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0509-fibonacci-number](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0509-fibonacci-number/) | Easy |
 | [0526-beautiful-arrangement](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0526-beautiful-arrangement/) | Medium |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0698-partition-to-k-equal-sum-subsets/) | Medium |
@@ -172,6 +174,7 @@ Collection of LeetCode questions - Created using [LeetHub-3.0](https://github.co
 | [0239-sliding-window-maximum](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0322-coin-change](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0322-coin-change/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
+| [0474-ones-and-zeroes](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0526-beautiful-arrangement](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0526-beautiful-arrangement/) | Medium |
 | [0641-design-circular-deque](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0641-design-circular-deque/) | Medium |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0698-partition-to-k-equal-sum-subsets/) | Medium |
