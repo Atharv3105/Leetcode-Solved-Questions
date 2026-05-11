@@ -69,6 +69,7 @@ Collection of LeetCode questions - Created using [LeetHub-3.0](https://github.co
 | [0509-fibonacci-number](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0509-fibonacci-number/) | Easy |
 | [0526-beautiful-arrangement](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0526-beautiful-arrangement/) | Medium |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0698-partition-to-k-equal-sum-subsets/) | Medium |
+| [0746-min-cost-climbing-stairs](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [1049-last-stone-weight-ii](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/1049-last-stone-weight-ii/) | Medium |
 | [1425-constrained-subsequence-sum](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/1425-constrained-subsequence-sum/) | Hard |
 | [1696-jump-game-vi](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/1696-jump-game-vi/) | Medium |
@@ -179,6 +180,7 @@ Collection of LeetCode questions - Created using [LeetHub-3.0](https://github.co
 | [0641-design-circular-deque](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0641-design-circular-deque/) | Medium |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0698-partition-to-k-equal-sum-subsets/) | Medium |
 | [0721-accounts-merge](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0721-accounts-merge/) | Medium |
+| [0746-min-cost-climbing-stairs](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0752-open-the-lock](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0752-open-the-lock/) | Medium |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
 | [0909-snakes-and-ladders](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0909-snakes-and-ladders/) | Medium |
