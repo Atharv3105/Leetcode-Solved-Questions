@@ -73,6 +73,7 @@ Collection of LeetCode questions - Created using [LeetHub-3.0](https://github.co
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0698-partition-to-k-equal-sum-subsets/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [1049-last-stone-weight-ii](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/1049-last-stone-weight-ii/) | Medium |
+| [1137-n-th-tribonacci-number](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1425-constrained-subsequence-sum](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/1425-constrained-subsequence-sum/) | Hard |
 | [1696-jump-game-vi](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/1696-jump-game-vi/) | Medium |
 ## Backtracking
@@ -144,6 +145,7 @@ Collection of LeetCode questions - Created using [LeetHub-3.0](https://github.co
 | [0343-integer-break](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0343-integer-break/) | Medium |
 | [0367-valid-perfect-square](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0367-valid-perfect-square/) | Easy |
 | [0509-fibonacci-number](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0509-fibonacci-number/) | Easy |
+| [1137-n-th-tribonacci-number](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/1137-n-th-tribonacci-number/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -152,6 +154,7 @@ Collection of LeetCode questions - Created using [LeetHub-3.0](https://github.co
 | [0241-different-ways-to-add-parentheses](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 | [0509-fibonacci-number](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0509-fibonacci-number/) | Easy |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0698-partition-to-k-equal-sum-subsets/) | Medium |
+| [1137-n-th-tribonacci-number](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/1137-n-th-tribonacci-number/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
