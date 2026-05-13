@@ -63,6 +63,7 @@ Collection of LeetCode questions - Created using [LeetHub-3.0](https://github.co
 | [0131-palindrome-partitioning](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0139-word-break](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0139-word-break/) | Medium |
 | [0198-house-robber](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0198-house-robber/) | Medium |
+| [0213-house-robber-ii](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0213-house-robber-ii/) | Medium |
 | [0241-different-ways-to-add-parentheses](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 | [0322-coin-change](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0322-coin-change/) | Medium |
 | [0343-integer-break](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0343-integer-break/) | Medium |
@@ -176,6 +177,7 @@ Collection of LeetCode questions - Created using [LeetHub-3.0](https://github.co
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0139-word-break](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0139-word-break/) | Medium |
 | [0198-house-robber](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0198-house-robber/) | Medium |
+| [0213-house-robber-ii](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0213-house-robber-ii/) | Medium |
 | [0216-combination-sum-iii](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0216-combination-sum-iii/) | Medium |
 | [0217-contains-duplicate](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0217-contains-duplicate/) | Easy |
 | [0239-sliding-window-maximum](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0239-sliding-window-maximum/) | Hard |
