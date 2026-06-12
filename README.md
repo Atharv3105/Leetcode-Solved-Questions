@@ -169,6 +169,7 @@ Collection of LeetCode questions - Created using [LeetHub-3.0](https://github.co
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0031-next-permutation](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0031-next-permutation/) | Medium |
 | [0039-combination-sum](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0040-combination-sum-ii/) | Medium |
@@ -451,6 +452,7 @@ Collection of LeetCode questions - Created using [LeetHub-3.0](https://github.co
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0031-next-permutation](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0031-next-permutation/) | Medium |
 ## Bitmask
 | Problem Name | Difficulty |
