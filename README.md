@@ -484,4 +484,8 @@ Collection of LeetCode questions - Created using [LeetHub-3.0](https://github.co
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2073-time-needed-to-buy-tickets](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 <!---LeetCode Topics End-->
