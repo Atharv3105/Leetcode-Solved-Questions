@@ -202,6 +202,7 @@ Collection of LeetCode questions - Created using [LeetHub-3.0](https://github.co
 | [0746-min-cost-climbing-stairs](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0752-open-the-lock](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0752-open-the-lock/) | Medium |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
+| [0904-fruit-into-baskets](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0909-snakes-and-ladders](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0909-snakes-and-ladders/) | Medium |
 | [0990-satisfiability-of-equality-equations](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0990-satisfiability-of-equality-equations/) | Medium |
 | [0994-rotting-oranges](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0994-rotting-oranges/) | Medium |
@@ -226,6 +227,7 @@ Collection of LeetCode questions - Created using [LeetHub-3.0](https://github.co
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
+| [0904-fruit-into-baskets](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1425-constrained-subsequence-sum](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/1425-constrained-subsequence-sum/) | Hard |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -380,6 +382,7 @@ Collection of LeetCode questions - Created using [LeetHub-3.0](https://github.co
 | [0290-word-pattern](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0290-word-pattern/) | Easy |
 | [0721-accounts-merge](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0721-accounts-merge/) | Medium |
 | [0752-open-the-lock](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0752-open-the-lock/) | Medium |
+| [0904-fruit-into-baskets](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1202-smallest-string-with-swaps](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/1202-smallest-string-with-swaps/) | Medium |
 ## Sorting
