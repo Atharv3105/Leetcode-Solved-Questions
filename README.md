@@ -148,6 +148,7 @@ Collection of LeetCode questions - Created using [LeetHub-3.0](https://github.co
 | [0009-palindrome-number](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0009-palindrome-number/) | Easy |
 | [0050-powx-n](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0050-powx-n/) | Medium |
 | [0062-unique-paths](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0062-unique-paths/) | Medium |
+| [0066-plus-one](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0066-plus-one/) | Easy |
 | [0070-climbing-stairs](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0070-climbing-stairs/) | Easy |
 | [0241-different-ways-to-add-parentheses](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 | [0292-nim-game](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0292-nim-game/) | Easy |
@@ -181,6 +182,7 @@ Collection of LeetCode questions - Created using [LeetHub-3.0](https://github.co
 | [0047-permutations-ii](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0047-permutations-ii/) | Medium |
 | [0051-n-queens](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0051-n-queens/) | Hard |
 | [0063-unique-paths-ii](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0063-unique-paths-ii/) | Medium |
+| [0066-plus-one](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0066-plus-one/) | Easy |
 | [0078-subsets](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0090-subsets-ii/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
