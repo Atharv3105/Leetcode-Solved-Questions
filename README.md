@@ -174,6 +174,7 @@ Collection of LeetCode questions - Created using [LeetHub-3.0](https://github.co
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0027-remove-element/) | Easy |
 | [0031-next-permutation](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0031-next-permutation/) | Medium |
+| [0035-search-insert-position](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0035-search-insert-position/) | Easy |
 | [0039-combination-sum](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0046-permutations/) | Medium |
@@ -248,6 +249,7 @@ Collection of LeetCode questions - Created using [LeetHub-3.0](https://github.co
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0035-search-insert-position](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0035-search-insert-position/) | Easy |
 | [0367-valid-perfect-square](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0367-valid-perfect-square/) | Easy |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
 ## Prefix Sum
