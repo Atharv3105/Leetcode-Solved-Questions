@@ -66,6 +66,7 @@ Collection of LeetCode questions - Created using [LeetHub-3.0](https://github.co
 | [0070-climbing-stairs](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0070-climbing-stairs/) | Easy |
 | [0072-edit-distance](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0072-edit-distance/) | Medium |
 | [0091-decode-ways](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0091-decode-ways/) | Medium |
+| [0118-pascals-triangle](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0118-pascals-triangle/) | Easy |
 | [0131-palindrome-partitioning](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0139-word-break](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0139-word-break/) | Medium |
 | [0198-house-robber](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0198-house-robber/) | Medium |
@@ -188,6 +189,7 @@ Collection of LeetCode questions - Created using [LeetHub-3.0](https://github.co
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0118-pascals-triangle](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0118-pascals-triangle/) | Easy |
 | [0139-word-break](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0139-word-break/) | Medium |
 | [0198-house-robber](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0213-house-robber-ii/) | Medium |
