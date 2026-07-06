@@ -7,6 +7,7 @@ Collection of LeetCode questions - Created using [LeetHub-3.0](https://github.co
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0013-roman-to-integer](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0013-roman-to-integer/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0022-generate-parentheses](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0032-longest-valid-parentheses/) | Hard |
@@ -147,6 +148,7 @@ Collection of LeetCode questions - Created using [LeetHub-3.0](https://github.co
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0009-palindrome-number/) | Easy |
+| [0013-roman-to-integer](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0013-roman-to-integer/) | Easy |
 | [0050-powx-n](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0050-powx-n/) | Medium |
 | [0062-unique-paths](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0062-unique-paths/) | Medium |
 | [0066-plus-one](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0066-plus-one/) | Easy |
@@ -376,6 +378,7 @@ Collection of LeetCode questions - Created using [LeetHub-3.0](https://github.co
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0013-roman-to-integer/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
