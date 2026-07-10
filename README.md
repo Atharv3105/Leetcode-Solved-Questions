@@ -150,6 +150,7 @@ Collection of LeetCode questions - Created using [LeetHub-3.0](https://github.co
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0009-palindrome-number/) | Easy |
 | [0013-roman-to-integer](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0013-roman-to-integer/) | Easy |
+| [0029-divide-two-integers](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0029-divide-two-integers/) | Medium |
 | [0050-powx-n](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0050-powx-n/) | Medium |
 | [0062-unique-paths](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0062-unique-paths/) | Medium |
 | [0066-plus-one](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0066-plus-one/) | Easy |
@@ -460,6 +461,7 @@ Collection of LeetCode questions - Created using [LeetHub-3.0](https://github.co
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0029-divide-two-integers](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0029-divide-two-integers/) | Medium |
 | [0078-subsets](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0090-subsets-ii/) | Medium |
 | [0526-beautiful-arrangement](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0526-beautiful-arrangement/) | Medium |
