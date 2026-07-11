@@ -200,6 +200,7 @@ Collection of LeetCode questions - Created using [LeetHub-3.0](https://github.co
 | [0213-house-robber-ii](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0213-house-robber-ii/) | Medium |
 | [0216-combination-sum-iii](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0216-combination-sum-iii/) | Medium |
 | [0217-contains-duplicate](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0217-contains-duplicate/) | Easy |
+| [0229-majority-element-ii](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0229-majority-element-ii/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0322-coin-change](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0322-coin-change/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
@@ -392,6 +393,7 @@ Collection of LeetCode questions - Created using [LeetHub-3.0](https://github.co
 | [0169-majority-element](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0169-majority-element/) | Easy |
 | [0208-implement-trie-prefix-tree](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0217-contains-duplicate](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0217-contains-duplicate/) | Easy |
+| [0229-majority-element-ii](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0229-majority-element-ii/) | Medium |
 | [0290-word-pattern](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0290-word-pattern/) | Easy |
 | [0721-accounts-merge](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0721-accounts-merge/) | Medium |
 | [0752-open-the-lock](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0752-open-the-lock/) | Medium |
@@ -404,6 +406,7 @@ Collection of LeetCode questions - Created using [LeetHub-3.0](https://github.co
 | [0047-permutations-ii](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0047-permutations-ii/) | Medium |
 | [0169-majority-element](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0217-contains-duplicate/) | Easy |
+| [0229-majority-element-ii](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0229-majority-element-ii/) | Medium |
 | [0721-accounts-merge](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0721-accounts-merge/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1202-smallest-string-with-swaps](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/1202-smallest-string-with-swaps/) | Medium |
@@ -520,4 +523,5 @@ Collection of LeetCode questions - Created using [LeetHub-3.0](https://github.co
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0169-majority-element/) | Easy |
+| [0229-majority-element-ii](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0229-majority-element-ii/) | Medium |
 <!---LeetCode Topics End-->
