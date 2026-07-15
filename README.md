@@ -12,6 +12,7 @@ Collection of LeetCode questions - Created using [LeetHub-3.0](https://github.co
 | [0022-generate-parentheses](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0058-length-of-last-word](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0058-length-of-last-word/) | Easy |
+| [0067-add-binary](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0067-add-binary/) | Easy |
 | [0071-simplify-path](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0071-simplify-path/) | Medium |
 | [0072-edit-distance](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0072-edit-distance/) | Medium |
 | [0091-decode-ways](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0091-decode-ways/) | Medium |
@@ -154,6 +155,7 @@ Collection of LeetCode questions - Created using [LeetHub-3.0](https://github.co
 | [0050-powx-n](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0050-powx-n/) | Medium |
 | [0062-unique-paths](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0062-unique-paths/) | Medium |
 | [0066-plus-one](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0066-plus-one/) | Easy |
+| [0067-add-binary](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0067-add-binary/) | Easy |
 | [0070-climbing-stairs](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0070-climbing-stairs/) | Easy |
 | [0241-different-ways-to-add-parentheses](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 | [0292-nim-game](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0292-nim-game/) | Easy |
@@ -469,6 +471,7 @@ Collection of LeetCode questions - Created using [LeetHub-3.0](https://github.co
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0029-divide-two-integers](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0029-divide-two-integers/) | Medium |
+| [0067-add-binary](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0067-add-binary/) | Easy |
 | [0078-subsets](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0090-subsets-ii/) | Medium |
 | [0526-beautiful-arrangement](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0526-beautiful-arrangement/) | Medium |
@@ -505,6 +508,7 @@ Collection of LeetCode questions - Created using [LeetHub-3.0](https://github.co
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0067-add-binary](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0067-add-binary/) | Easy |
 | [2073-time-needed-to-buy-tickets](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 ## Database
 | Problem Name | Difficulty |
