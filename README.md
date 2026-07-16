@@ -11,6 +11,7 @@ Collection of LeetCode questions - Created using [LeetHub-3.0](https://github.co
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0022-generate-parentheses](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0038-count-and-say](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0038-count-and-say/) | Medium |
 | [0058-length-of-last-word](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0058-length-of-last-word/) | Easy |
 | [0067-add-binary](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0067-add-binary/) | Easy |
 | [0071-simplify-path](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0071-simplify-path/) | Medium |
