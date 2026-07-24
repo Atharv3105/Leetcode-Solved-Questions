@@ -39,6 +39,7 @@ Collection of LeetCode questions - Created using [LeetHub-3.0](https://github.co
 | [0990-satisfiability-of-equality-equations](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0990-satisfiability-of-equality-equations/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1202-smallest-string-with-swaps](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/1202-smallest-string-with-swaps/) | Medium |
+| [1422-maximum-score-after-splitting-a-string](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/1422-maximum-score-after-splitting-a-string/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -278,6 +279,7 @@ Collection of LeetCode questions - Created using [LeetHub-3.0](https://github.co
 | ------- | ------- |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/1413-minimum-value-to-get-positive-step-by-step-sum/) | Easy |
+| [1422-maximum-score-after-splitting-a-string](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/1422-maximum-score-after-splitting-a-string/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
 ## Linked List
