@@ -209,6 +209,7 @@ Collection of LeetCode questions - Created using [LeetHub-3.0](https://github.co
 | [0219-contains-duplicate-ii](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0229-majority-element-ii](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0229-majority-element-ii/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0304-range-sum-query-2d-immutable](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0322-coin-change](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0322-coin-change/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0474-ones-and-zeroes](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0474-ones-and-zeroes/) | Medium |
@@ -277,6 +278,7 @@ Collection of LeetCode questions - Created using [LeetHub-3.0](https://github.co
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0304-range-sum-query-2d-immutable](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/1413-minimum-value-to-get-positive-step-by-step-sum/) | Easy |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/1422-maximum-score-after-splitting-a-string/) | Easy |
@@ -296,6 +298,7 @@ Collection of LeetCode questions - Created using [LeetHub-3.0](https://github.co
 | [0208-implement-trie-prefix-tree](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
+| [0304-range-sum-query-2d-immutable](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0641-design-circular-deque](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0641-design-circular-deque/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Tree
@@ -458,6 +461,7 @@ Collection of LeetCode questions - Created using [LeetHub-3.0](https://github.co
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0063-unique-paths-ii](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0063-unique-paths-ii/) | Medium |
+| [0304-range-sum-query-2d-immutable](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0909-snakes-and-ladders](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0909-snakes-and-ladders/) | Medium |
 | [0994-rotting-oranges](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0994-rotting-oranges/) | Medium |
