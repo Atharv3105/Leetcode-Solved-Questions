@@ -234,6 +234,7 @@ Collection of LeetCode questions - Created using [LeetHub-3.0](https://github.co
 | [1480-running-sum-of-1d-array](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
 | [1696-jump-game-vi](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/1696-jump-game-vi/) | Medium |
+| [1732-find-the-highest-altitude](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [2073-time-needed-to-buy-tickets](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
@@ -284,6 +285,7 @@ Collection of LeetCode questions - Created using [LeetHub-3.0](https://github.co
 | [1422-maximum-score-after-splitting-a-string](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/1422-maximum-score-after-splitting-a-string/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
+| [1732-find-the-highest-altitude](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/1732-find-the-highest-altitude/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
