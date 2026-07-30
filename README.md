@@ -28,6 +28,7 @@ Collection of LeetCode questions - Created using [LeetHub-3.0](https://github.co
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0301-remove-invalid-parentheses](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0344-reverse-string](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0344-reverse-string/) | Easy |
+| [0345-reverse-vowels-of-a-string](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0394-decode-string](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0394-decode-string/) | Medium |
 | [0474-ones-and-zeroes](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0583-delete-operation-for-two-strings](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0583-delete-operation-for-two-strings/) | Medium |
@@ -507,6 +508,7 @@ Collection of LeetCode questions - Created using [LeetHub-3.0](https://github.co
 | [0027-remove-element](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0027-remove-element/) | Easy |
 | [0031-next-permutation](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0031-next-permutation/) | Medium |
 | [0344-reverse-string](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0344-reverse-string/) | Easy |
+| [0345-reverse-vowels-of-a-string](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 ## Bitmask
 | Problem Name | Difficulty |
 | ------- | ------- |
