@@ -213,6 +213,7 @@ Collection of LeetCode questions - Created using [LeetHub-3.0](https://github.co
 | [0239-sliding-window-maximum](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0304-range-sum-query-2d-immutable](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0322-coin-change](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0322-coin-change/) | Medium |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0417-pacific-atlantic-water-flow](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0474-ones-and-zeroes](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0518-coin-change-ii](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0518-coin-change-ii/) | Medium |
@@ -276,6 +277,7 @@ Collection of LeetCode questions - Created using [LeetHub-3.0](https://github.co
 | ------- | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0035-search-insert-position/) | Easy |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0367-valid-perfect-square](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0367-valid-perfect-square/) | Easy |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
 ## Prefix Sum
@@ -419,6 +421,7 @@ Collection of LeetCode questions - Created using [LeetHub-3.0](https://github.co
 | [0219-contains-duplicate-ii](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0229-majority-element-ii](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0229-majority-element-ii/) | Medium |
 | [0290-word-pattern](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0290-word-pattern/) | Easy |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0721-accounts-merge](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0721-accounts-merge/) | Medium |
 | [0752-open-the-lock](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0752-open-the-lock/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0904-fruit-into-baskets/) | Medium |
@@ -431,6 +434,7 @@ Collection of LeetCode questions - Created using [LeetHub-3.0](https://github.co
 | [0169-majority-element](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0229-majority-element-ii/) | Medium |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0721-accounts-merge](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0721-accounts-merge/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1202-smallest-string-with-swaps](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/1202-smallest-string-with-swaps/) | Medium |
@@ -509,6 +513,7 @@ Collection of LeetCode questions - Created using [LeetHub-3.0](https://github.co
 | [0031-next-permutation](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0031-next-permutation/) | Medium |
 | [0344-reverse-string](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 ## Bitmask
 | Problem Name | Difficulty |
 | ------- | ------- |
