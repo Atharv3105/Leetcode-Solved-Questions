@@ -160,6 +160,7 @@ Collection of LeetCode questions - Created using [LeetHub-3.0](https://github.co
 | [0062-unique-paths](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0062-unique-paths/) | Medium |
 | [0066-plus-one](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0067-add-binary/) | Easy |
+| [0069-sqrtx](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0070-climbing-stairs/) | Easy |
 | [0241-different-ways-to-add-parentheses](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 | [0292-nim-game](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0292-nim-game/) | Easy |
@@ -277,6 +278,7 @@ Collection of LeetCode questions - Created using [LeetHub-3.0](https://github.co
 | ------- | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0035-search-insert-position/) | Easy |
+| [0069-sqrtx](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0069-sqrtx/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0367-valid-perfect-square](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0367-valid-perfect-square/) | Easy |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
@@ -558,4 +560,8 @@ Collection of LeetCode questions - Created using [LeetHub-3.0](https://github.co
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0229-majority-element-ii/) | Medium |
+## Newton's Method
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0069-sqrtx](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0069-sqrtx/) | Easy |
 <!---LeetCode Topics End-->
