@@ -221,6 +221,7 @@ Collection of LeetCode questions - Created using [LeetHub-3.0](https://github.co
 | [0526-beautiful-arrangement](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0526-beautiful-arrangement/) | Medium |
 | [0641-design-circular-deque](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0641-design-circular-deque/) | Medium |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0698-partition-to-k-equal-sum-subsets/) | Medium |
+| [0705-design-hashset](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0705-design-hashset/) | Easy |
 | [0721-accounts-merge](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0721-accounts-merge/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0752-open-the-lock](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0752-open-the-lock/) | Medium |
@@ -301,6 +302,7 @@ Collection of LeetCode questions - Created using [LeetHub-3.0](https://github.co
 | [0138-copy-list-with-random-pointer](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0203-remove-linked-list-elements](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0641-design-circular-deque](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0641-design-circular-deque/) | Medium |
+| [0705-design-hashset](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0705-design-hashset/) | Easy |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -310,6 +312,7 @@ Collection of LeetCode questions - Created using [LeetHub-3.0](https://github.co
 | [0304-range-sum-query-2d-immutable](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0641-design-circular-deque](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0641-design-circular-deque/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+| [0705-design-hashset](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0705-design-hashset/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -425,6 +428,7 @@ Collection of LeetCode questions - Created using [LeetHub-3.0](https://github.co
 | [0229-majority-element-ii](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0229-majority-element-ii/) | Medium |
 | [0290-word-pattern](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0290-word-pattern/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0705-design-hashset](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0705-design-hashset/) | Easy |
 | [0721-accounts-merge](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0721-accounts-merge/) | Medium |
 | [0752-open-the-lock](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0752-open-the-lock/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0904-fruit-into-baskets/) | Medium |
@@ -565,4 +569,8 @@ Collection of LeetCode questions - Created using [LeetHub-3.0](https://github.co
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0069-sqrtx](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0069-sqrtx/) | Easy |
+## Hash Function
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0705-design-hashset](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0705-design-hashset/) | Easy |
 <!---LeetCode Topics End-->
