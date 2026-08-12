@@ -295,6 +295,7 @@ Collection of LeetCode questions - Created using [LeetHub-3.0](https://github.co
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0138-copy-list-with-random-pointer](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0138-copy-list-with-random-pointer/) | Medium |
