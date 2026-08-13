@@ -168,6 +168,7 @@ Collection of LeetCode questions - Created using [LeetHub-3.0](https://github.co
 | [0367-valid-perfect-square](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0367-valid-perfect-square/) | Easy |
 | [0509-fibonacci-number](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0509-fibonacci-number/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/1137-n-th-tribonacci-number/) | Easy |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
@@ -305,6 +306,7 @@ Collection of LeetCode questions - Created using [LeetHub-3.0](https://github.co
 | [0641-design-circular-deque](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0641-design-circular-deque/) | Medium |
 | [0705-design-hashset](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0705-design-hashset/) | Easy |
 | [0706-design-hashmap](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0706-design-hashmap/) | Easy |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
