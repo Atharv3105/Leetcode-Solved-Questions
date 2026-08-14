@@ -298,6 +298,7 @@ Collection of LeetCode questions - Created using [LeetHub-3.0](https://github.co
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
@@ -524,6 +525,7 @@ Collection of LeetCode questions - Created using [LeetHub-3.0](https://github.co
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0027-remove-element/) | Easy |
 | [0031-next-permutation](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0031-next-permutation/) | Medium |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0344-reverse-string](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
