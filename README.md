@@ -163,6 +163,7 @@ Collection of LeetCode questions - Created using [LeetHub-3.0](https://github.co
 | [0069-sqrtx](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0070-climbing-stairs/) | Easy |
 | [0241-different-ways-to-add-parentheses](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
+| [0268-missing-number](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0268-missing-number/) | Easy |
 | [0292-nim-game](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0292-nim-game/) | Easy |
 | [0343-integer-break](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0343-integer-break/) | Medium |
 | [0367-valid-perfect-square](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0367-valid-perfect-square/) | Easy |
@@ -213,6 +214,7 @@ Collection of LeetCode questions - Created using [LeetHub-3.0](https://github.co
 | [0219-contains-duplicate-ii](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0229-majority-element-ii](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0229-majority-element-ii/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0268-missing-number](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0268-missing-number/) | Easy |
 | [0304-range-sum-query-2d-immutable](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0322-coin-change](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0322-coin-change/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
@@ -282,6 +284,7 @@ Collection of LeetCode questions - Created using [LeetHub-3.0](https://github.co
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0035-search-insert-position/) | Easy |
 | [0069-sqrtx](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0069-sqrtx/) | Easy |
+| [0268-missing-number](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0268-missing-number/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0367-valid-perfect-square](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0367-valid-perfect-square/) | Easy |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
@@ -432,6 +435,7 @@ Collection of LeetCode questions - Created using [LeetHub-3.0](https://github.co
 | [0217-contains-duplicate](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0229-majority-element-ii](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0229-majority-element-ii/) | Medium |
+| [0268-missing-number](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0268-missing-number/) | Easy |
 | [0290-word-pattern](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0290-word-pattern/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0705-design-hashset](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0705-design-hashset/) | Easy |
@@ -448,6 +452,7 @@ Collection of LeetCode questions - Created using [LeetHub-3.0](https://github.co
 | [0169-majority-element](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0229-majority-element-ii/) | Medium |
+| [0268-missing-number](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0268-missing-number/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0721-accounts-merge](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0721-accounts-merge/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
@@ -515,6 +520,7 @@ Collection of LeetCode questions - Created using [LeetHub-3.0](https://github.co
 | [0067-add-binary](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0067-add-binary/) | Easy |
 | [0078-subsets](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0090-subsets-ii/) | Medium |
+| [0268-missing-number](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0268-missing-number/) | Easy |
 | [0526-beautiful-arrangement](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0526-beautiful-arrangement/) | Medium |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0698-partition-to-k-equal-sum-subsets/) | Medium |
 | [0784-letter-case-permutation](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0784-letter-case-permutation/) | Medium |
