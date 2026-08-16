@@ -199,6 +199,7 @@ Collection of LeetCode questions - Created using [LeetHub-3.0](https://github.co
 | [0051-n-queens](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0051-n-queens/) | Hard |
 | [0063-unique-paths-ii](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0063-unique-paths-ii/) | Medium |
 | [0066-plus-one](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0066-plus-one/) | Easy |
+| [0074-search-a-2d-matrix](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0078-subsets](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0090-subsets-ii/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
@@ -284,6 +285,7 @@ Collection of LeetCode questions - Created using [LeetHub-3.0](https://github.co
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0035-search-insert-position/) | Easy |
 | [0069-sqrtx](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0069-sqrtx/) | Easy |
+| [0074-search-a-2d-matrix](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0268-missing-number](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0268-missing-number/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0367-valid-perfect-square](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0367-valid-perfect-square/) | Easy |
@@ -488,6 +490,7 @@ Collection of LeetCode questions - Created using [LeetHub-3.0](https://github.co
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0063-unique-paths-ii](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0063-unique-paths-ii/) | Medium |
+| [0074-search-a-2d-matrix](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0304-range-sum-query-2d-immutable](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0909-snakes-and-ladders](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0909-snakes-and-ladders/) | Medium |
