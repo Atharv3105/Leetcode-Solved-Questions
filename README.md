@@ -208,6 +208,7 @@ Collection of LeetCode questions - Created using [LeetHub-3.0](https://github.co
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0118-pascals-triangle](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0118-pascals-triangle/) | Easy |
 | [0139-word-break](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0139-word-break/) | Medium |
+| [0164-maximum-gap](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0164-maximum-gap/) | Medium |
 | [0169-majority-element](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0169-majority-element/) | Easy |
 | [0198-house-robber](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0213-house-robber-ii/) | Medium |
@@ -454,6 +455,7 @@ Collection of LeetCode questions - Created using [LeetHub-3.0](https://github.co
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0047-permutations-ii](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0047-permutations-ii/) | Medium |
+| [0164-maximum-gap](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0164-maximum-gap/) | Medium |
 | [0169-majority-element](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0229-majority-element-ii/) | Medium |
@@ -597,4 +599,16 @@ Collection of LeetCode questions - Created using [LeetHub-3.0](https://github.co
 | ------- | ------- |
 | [0705-design-hashset](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0705-design-hashset/) | Easy |
 | [0706-design-hashmap](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0706-design-hashmap/) | Easy |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0164-maximum-gap](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0164-maximum-gap/) | Medium |
+## Radix Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0164-maximum-gap](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0164-maximum-gap/) | Medium |
+## Pigeonhole Principle
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0164-maximum-gap](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0164-maximum-gap/) | Medium |
 <!---LeetCode Topics End-->
