@@ -21,6 +21,7 @@ Collection of LeetCode questions - Created using [LeetHub-3.0](https://github.co
 | [0127-word-ladder](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0127-word-ladder/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0139-word-break](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0139-word-break/) | Medium |
+| [0179-largest-number](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0179-largest-number/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0241-different-ways-to-add-parentheses](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
@@ -184,6 +185,7 @@ Collection of LeetCode questions - Created using [LeetHub-3.0](https://github.co
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0179-largest-number](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0179-largest-number/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 ## Array
 | Problem Name | Difficulty |
@@ -210,6 +212,7 @@ Collection of LeetCode questions - Created using [LeetHub-3.0](https://github.co
 | [0139-word-break](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0139-word-break/) | Medium |
 | [0164-maximum-gap](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0164-maximum-gap/) | Medium |
 | [0169-majority-element](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0169-majority-element/) | Easy |
+| [0179-largest-number](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0179-largest-number/) | Medium |
 | [0198-house-robber](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0213-house-robber-ii/) | Medium |
 | [0216-combination-sum-iii](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0216-combination-sum-iii/) | Medium |
@@ -459,6 +462,7 @@ Collection of LeetCode questions - Created using [LeetHub-3.0](https://github.co
 | [0147-insertion-sort-list](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0147-insertion-sort-list/) | Medium |
 | [0164-maximum-gap](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0164-maximum-gap/) | Medium |
 | [0169-majority-element](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0169-majority-element/) | Easy |
+| [0179-largest-number](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0179-largest-number/) | Medium |
 | [0217-contains-duplicate](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0229-majority-element-ii/) | Medium |
 | [0268-missing-number](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0268-missing-number/) | Easy |
