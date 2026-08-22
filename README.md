@@ -186,6 +186,7 @@ Collection of LeetCode questions - Created using [LeetHub-3.0](https://github.co
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0179-largest-number](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0179-largest-number/) | Medium |
+| [0455-assign-cookies](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0455-assign-cookies/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 ## Array
 | Problem Name | Difficulty |
@@ -226,6 +227,7 @@ Collection of LeetCode questions - Created using [LeetHub-3.0](https://github.co
 | [0350-intersection-of-two-arrays-ii](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0414-third-maximum-number](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0414-third-maximum-number/) | Easy |
 | [0417-pacific-atlantic-water-flow](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
+| [0455-assign-cookies](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0455-assign-cookies/) | Easy |
 | [0474-ones-and-zeroes](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0518-coin-change-ii](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0518-coin-change-ii/) | Medium |
 | [0526-beautiful-arrangement](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0526-beautiful-arrangement/) | Medium |
@@ -469,6 +471,7 @@ Collection of LeetCode questions - Created using [LeetHub-3.0](https://github.co
 | [0350-intersection-of-two-arrays-ii](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0389-find-the-difference](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0389-find-the-difference/) | Easy |
 | [0414-third-maximum-number](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0414-third-maximum-number/) | Easy |
+| [0455-assign-cookies](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0455-assign-cookies/) | Easy |
 | [0721-accounts-merge](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0721-accounts-merge/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1202-smallest-string-with-swaps](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/1202-smallest-string-with-swaps/) | Medium |
@@ -552,6 +555,7 @@ Collection of LeetCode questions - Created using [LeetHub-3.0](https://github.co
 | [0344-reverse-string](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0455-assign-cookies](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0455-assign-cookies/) | Easy |
 ## Bitmask
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -617,4 +621,8 @@ Collection of LeetCode questions - Created using [LeetHub-3.0](https://github.co
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0164-maximum-gap](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0164-maximum-gap/) | Medium |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0455-assign-cookies](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0455-assign-cookies/) | Easy |
 <!---LeetCode Topics End-->
