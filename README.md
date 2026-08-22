@@ -188,6 +188,7 @@ Collection of LeetCode questions - Created using [LeetHub-3.0](https://github.co
 | [0179-largest-number](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0179-largest-number/) | Medium |
 | [0455-assign-cookies](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0455-assign-cookies/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -254,6 +255,7 @@ Collection of LeetCode questions - Created using [LeetHub-3.0](https://github.co
 | [1696-jump-game-vi](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/1696-jump-game-vi/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [2073-time-needed-to-buy-tickets](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -475,6 +477,7 @@ Collection of LeetCode questions - Created using [LeetHub-3.0](https://github.co
 | [0721-accounts-merge](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0721-accounts-merge/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1202-smallest-string-with-swaps](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/1202-smallest-string-with-swaps/) | Medium |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -556,6 +559,7 @@ Collection of LeetCode questions - Created using [LeetHub-3.0](https://github.co
 | [0345-reverse-vowels-of-a-string](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0455-assign-cookies](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0455-assign-cookies/) | Easy |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
 ## Bitmask
 | Problem Name | Difficulty |
 | ------- | ------- |
