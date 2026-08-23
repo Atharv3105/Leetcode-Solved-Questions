@@ -230,6 +230,7 @@ Collection of LeetCode questions - Created using [LeetHub-3.0](https://github.co
 | [0417-pacific-atlantic-water-flow](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0455-assign-cookies](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0455-assign-cookies/) | Easy |
 | [0474-ones-and-zeroes](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0474-ones-and-zeroes/) | Medium |
+| [0506-relative-ranks](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0506-relative-ranks/) | Easy |
 | [0518-coin-change-ii](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0518-coin-change-ii/) | Medium |
 | [0526-beautiful-arrangement](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0526-beautiful-arrangement/) | Medium |
 | [0641-design-circular-deque](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0641-design-circular-deque/) | Medium |
@@ -277,6 +278,7 @@ Collection of LeetCode questions - Created using [LeetHub-3.0](https://github.co
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0506-relative-ranks](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0506-relative-ranks/) | Easy |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
 | [1046-last-stone-weight](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/1046-last-stone-weight/) | Easy |
@@ -474,6 +476,7 @@ Collection of LeetCode questions - Created using [LeetHub-3.0](https://github.co
 | [0389-find-the-difference](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0389-find-the-difference/) | Easy |
 | [0414-third-maximum-number](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0414-third-maximum-number/) | Easy |
 | [0455-assign-cookies](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0455-assign-cookies/) | Easy |
+| [0506-relative-ranks](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0506-relative-ranks/) | Easy |
 | [0721-accounts-merge](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0721-accounts-merge/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1202-smallest-string-with-swaps](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/1202-smallest-string-with-swaps/) | Medium |
