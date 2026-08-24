@@ -217,6 +217,7 @@ Collection of LeetCode questions - Created using [LeetHub-3.0](https://github.co
 | [0179-largest-number](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0179-largest-number/) | Medium |
 | [0198-house-robber](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0213-house-robber-ii/) | Medium |
+| [0215-kth-largest-element-in-an-array](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0216-combination-sum-iii](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0216-combination-sum-iii/) | Medium |
 | [0217-contains-duplicate](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0219-contains-duplicate-ii/) | Easy |
@@ -277,6 +278,7 @@ Collection of LeetCode questions - Created using [LeetHub-3.0](https://github.co
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0506-relative-ranks](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0506-relative-ranks/) | Easy |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
@@ -469,6 +471,7 @@ Collection of LeetCode questions - Created using [LeetHub-3.0](https://github.co
 | [0164-maximum-gap](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0164-maximum-gap/) | Medium |
 | [0169-majority-element](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0169-majority-element/) | Easy |
 | [0179-largest-number](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0179-largest-number/) | Medium |
+| [0215-kth-largest-element-in-an-array](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0229-majority-element-ii/) | Medium |
 | [0268-missing-number](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0268-missing-number/) | Easy |
@@ -497,6 +500,7 @@ Collection of LeetCode questions - Created using [LeetHub-3.0](https://github.co
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0169-majority-element](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0169-majority-element/) | Easy |
+| [0215-kth-largest-element-in-an-array](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -632,4 +636,8 @@ Collection of LeetCode questions - Created using [LeetHub-3.0](https://github.co
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0455-assign-cookies](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0455-assign-cookies/) | Easy |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 <!---LeetCode Topics End-->
