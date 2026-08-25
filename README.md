@@ -226,6 +226,7 @@ Collection of LeetCode questions - Created using [LeetHub-3.0](https://github.co
 | [0268-missing-number](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0268-missing-number/) | Easy |
 | [0304-range-sum-query-2d-immutable](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0322-coin-change](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0322-coin-change/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0414-third-maximum-number](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0414-third-maximum-number/) | Easy |
 | [0417-pacific-atlantic-water-flow](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
@@ -280,6 +281,7 @@ Collection of LeetCode questions - Created using [LeetHub-3.0](https://github.co
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0347-top-k-frequent-elements](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0506-relative-ranks](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0506-relative-ranks/) | Easy |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
@@ -454,6 +456,7 @@ Collection of LeetCode questions - Created using [LeetHub-3.0](https://github.co
 | [0229-majority-element-ii](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0229-majority-element-ii/) | Medium |
 | [0268-missing-number](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0268-missing-number/) | Easy |
 | [0290-word-pattern](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0290-word-pattern/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0389-find-the-difference](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0389-find-the-difference/) | Easy |
 | [0705-design-hashset](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0705-design-hashset/) | Easy |
@@ -475,6 +478,7 @@ Collection of LeetCode questions - Created using [LeetHub-3.0](https://github.co
 | [0217-contains-duplicate](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0229-majority-element-ii/) | Medium |
 | [0268-missing-number](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0268-missing-number/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0389-find-the-difference](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0389-find-the-difference/) | Easy |
 | [0414-third-maximum-number](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0414-third-maximum-number/) | Easy |
@@ -501,6 +505,7 @@ Collection of LeetCode questions - Created using [LeetHub-3.0](https://github.co
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0169-majority-element](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -611,6 +616,7 @@ Collection of LeetCode questions - Created using [LeetHub-3.0](https://github.co
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0229-majority-element-ii/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Newton's Method
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -624,6 +630,7 @@ Collection of LeetCode questions - Created using [LeetHub-3.0](https://github.co
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0164-maximum-gap](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0164-maximum-gap/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Radix Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -640,4 +647,5 @@ Collection of LeetCode questions - Created using [LeetHub-3.0](https://github.co
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/Atharv3105/Leetcode-Solved-Questions/tree/main/0347-top-k-frequent-elements/) | Medium |
 <!---LeetCode Topics End-->
